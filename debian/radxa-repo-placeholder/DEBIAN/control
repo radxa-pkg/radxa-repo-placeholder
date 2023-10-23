@@ -1,0 +1,10 @@
+Package: radxa-repo-placeholder
+Version: 0.1.0
+Architecture: all
+Maintainer: "Radxa Computer Co., Ltd" <dev@radxa.com>
+Installed-Size: 9
+Section: libs
+Priority: optional
+Description: Radxa APT repo placeholder packages
+ This package provides placeholder packages for Radxa APT repo.
+ This is currently an empty package.

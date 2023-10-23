@@ -1,0 +1,16 @@
+Source: radxa-repo-placeholder
+Maintainer: "Radxa Computer Co., Ltd" <dev@radxa.com>
+Section: libs
+Priority: optional
+Standards-Version: 4.6.0
+Build-Depends: debhelper (>=12~),
+               devscripts,
+               lintian,
+
+Package: radxa-repo-placeholder
+Architecture: all
+Priority: optional
+Depends: ${misc:Depends},
+Description: Radxa APT repo placeholder packages
+ This package provides placeholder packages for Radxa APT repo.
+ This is currently an empty package.

@@ -1,0 +1,16 @@
+{
+  " radxa-repo-placeholder_VERSION_all.deb": {
+    "Releases": [
+      "amlogic-buster",
+      "amlogic-buster-test",
+      "amlogic-bullseye",
+      "amlogic-bullseye-test",
+      "amlogic-bookworm",
+      "amlogic-bookworm-test",
+      "amlogic-focal",
+      "amlogic-focal-test",
+      "amlogic-jammy",
+      "amlogic-jammy-test"
+    ]
+  }
+}
