@@ -1,3 +1,20 @@
+radxa-repo-placeholder (0.1.1) jammy; urgency=medium
+
+  [ ZHANG Yuntian ]
+  * Fix typo
+
+  [ dependabot[bot] ]
+  * Bump actions/upload-artifact from 3 to 4
+
+  [ dependabot[bot] ]
+  * Bump actions/download-artifact from 3 to 4
+
+  [ dependabot[bot] ]
+  * Bump softprops/action-gh-release from 1 to 2
+  * fix: add placeholder package to rockchip-*
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Wed, 29 May 2024 02:17:25 +0000
+
 radxa-repo-placeholder (0.1.0) jammy; urgency=medium
 
   * Initial release
