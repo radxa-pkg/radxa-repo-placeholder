@@ -10,7 +10,17 @@
       "amlogic-focal",
       "amlogic-focal-test",
       "amlogic-jammy",
-      "amlogic-jammy-test"
+      "amlogic-jammy-test",
+      "rockchip-buster",
+      "rockchip-buster-test",
+      "rockchip-bullseye",
+      "rockchip-bullseye-test",
+      "rockchip-bookworm",
+      "rockchip-bookworm-test",
+      "rockchip-focal",
+      "rockchip-focal-test",
+      "rockchip-jammy",
+      "rockchip-jammy-test"
     ]
   }
 }
